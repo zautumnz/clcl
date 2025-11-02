@@ -3,9 +3,7 @@
   "description": "X11 CLi CLipboard manager",
   "version": "0.3.8",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "index.js",
@@ -21,12 +19,12 @@
   "scripts": {
     "preversion": "sortpack && standard"
   },
-  "homepage": "https://github.com/zacanger/clcl#readme",
+  "homepage": "https://github.com/zautumnz/clcl#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/clcl.git"
+    "url": "https://github.com/zautumnz/clcl.git"
   },
-  "bugs": "https://github.com/zacanger/clcl/issues",
+  "bugs": "https://github.com/zautumnz/clcl/issues",
   "keywords": [
     "clipboard",
     "clipboard-manager",
